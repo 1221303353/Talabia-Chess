@@ -1,0 +1,4 @@
+boardPiece: null,BHourglass,BTime,BSun,BTime,BHourglass,null,null,BPoint,BPoint,BPoint,BPoint,BPoint,null,null,null,null,BPlus,null,null,BPoint,YPoint,null,null,YPlus,null,null,null,null,YPoint,YPoint,YPoint,YPoint,YPoint,null,null,YHourglass,YTime,YSun,YTime,YHourglass,null,
+flipped: false
+turn: 19
+moveCounter: 2
